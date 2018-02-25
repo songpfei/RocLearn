@@ -15,3 +15,4 @@ def rename():
         count += 1
 rename()
 print('rename success')
+# github 20180225
