@@ -14,5 +14,6 @@ def rename():
         os.renames(oldDir, newDir)
         count += 1
 rename()
-print('rename success')
+print('rename success ---git')
 # github 20180225
+# git commit
